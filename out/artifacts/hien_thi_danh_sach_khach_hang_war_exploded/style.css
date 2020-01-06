@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+.customer{
+    border: 5px solid blue;
+    width: 50%;
+    height: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+table{
+    margin-left: 4%;
+}
+h1{
+    margin-left: 4%
+}
